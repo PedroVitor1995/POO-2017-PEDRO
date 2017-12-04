@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04cf9ee7-07a0-4a8c-8c01-16241fea7b9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Atividade E/src/model/Jogador.java" afterPath="$PROJECT_DIR$/Atividade E/src/model/Jogador.java" />
-    </list>
+    <list default="true" id="04cf9ee7-07a0-4a8c-8c01-16241fea7b9d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,12 +113,6 @@
               <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
               <item name="Atividade E" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
-              <item name="Atividade E" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
