@@ -1,0 +1,7 @@
+Questão 01 - Errado
+javac Avaliacao.java
+java Avaliacao
+
+Questão 02 - Vai dar erro,pois contador não foi inicializado
+
+Questão 03 -
