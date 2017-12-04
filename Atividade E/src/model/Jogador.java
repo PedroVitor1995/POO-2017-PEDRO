@@ -11,7 +11,13 @@ public class Jogador {
         this.nivel = nivel;
         this.pontosAtuais = pontosAtuais;
     }
-    public double calcularPontosRelativos(){
-        return forca * nivel;
+    public void calcularPontosRelativos(){
+        this.pontosAtuais += forca * nivel;
+    }
+    public void atacar(Jogador jogador){
+        this.pontosAtuais -= jogador.pontosAtuais;
+    }
+    public double obterPontos(){
+        return pontosAtuais;
     }
 }
