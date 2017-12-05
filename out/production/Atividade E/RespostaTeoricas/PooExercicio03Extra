@@ -1,0 +1,6 @@
+Questão 01 - Nada,pois a classe não é executável
+
+Questão 04 - Sim,pois o atributo i tem valor nulo
+
+Questâo 05 - Não vai executar,pois na classe Post o construtor possui parametros que não são passados pela classe TestsPost
+Solução -> Passar os parametros na classe TestaPost que são pedidos na classe Post
