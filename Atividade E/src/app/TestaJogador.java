@@ -18,5 +18,29 @@ public class TestaJogador {
 
         System.out.println(jogador1.obterPontos());
         System.out.println(jogador2.obterPontos());
+
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.aumentarVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.aumentarVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+        jogador1.diminuirVidas();
+        System.out.println(jogador1.getVidas());
+
+        jogador1.doarVida(jogador2);
+        System.out.println(jogador1.getVidas());
+        System.out.println(jogador2.getVidas());
+
     }
 }
