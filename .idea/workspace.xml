@@ -2,7 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cf9ee7-07a0-4a8c-8c01-16241fea7b9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio01" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio03Extra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaAcao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaAnimal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCalculadora.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCarro.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCirculo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaDecimalNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaDesconto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaEquipamentos.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaHora.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaJogador.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaMicroblog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaNumberUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaPost.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaProduto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaRetangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSaudacao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSenha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSituacaoFinanceira.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSoma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaTriangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Acao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Cadastro.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Calculadora.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/CalculadoraCientifica.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Carro.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Circulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/ContaImposto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/DecimalNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Desconto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Diarista.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Empregado.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Equipamento.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Hora.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Horista.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/ImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Jogador.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Microblog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/NumberUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Peixe.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Pessoa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Post.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Postagem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Produto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Retangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Saudacao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Senha.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/SituacaoFinanceira.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Soma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Triangulo.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,6 +191,7 @@
       <recent name="app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Furtado\Desktop\POO-2017-PEDRO\Atividade E" />
       <recent name="C:\Users\Furtado\Desktop\POO-2017-PEDRO\Atividade E\src\RespostaTeoricas" />
     </key>
   </component>
