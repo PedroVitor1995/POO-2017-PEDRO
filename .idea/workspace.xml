@@ -2,62 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04cf9ee7-07a0-4a8c-8c01-16241fea7b9d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio01" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio03Extra" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/RespostaTeoricas/PooExercicio04" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaAcao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaAnimal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCalculadora.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCarro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaCirculo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaDecimalNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaDesconto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaEquipamentos.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaHora.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaImpostoDeRenda.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaJogador.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaMicroblog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaNumberUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaPost.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaProduto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaRetangulo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSaudacao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSenha.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSituacaoFinanceira.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaSoma.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/app/TestaTriangulo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Acao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Animal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Cadastro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Calculadora.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/CalculadoraCientifica.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Carro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Circulo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/ContaImposto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/DecimalNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Desconto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Diarista.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Empregado.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Equipamento.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Hora.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Horista.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/ImpostoDeRenda.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Jogador.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Microblog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/NumberUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Peixe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Pessoa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Post.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Postagem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Produto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Retangulo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Saudacao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Senha.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/SituacaoFinanceira.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Soma.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade E/model/Triangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio01" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio02" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03Extra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/POO-2017-PEDRO.iml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio01" afterPath="$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio01" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio02" afterPath="$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio02" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03" afterPath="$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio03" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03Extra" afterPath="$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio03Extra" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio04" afterPath="$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio04" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,6 +122,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,13 +132,15 @@
               <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividade E" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -419,14 +383,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -435,12 +398,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -504,7 +468,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio02">
+    <entry file="file://$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio02">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -623,14 +587,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03">
+    <entry file="file://$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio03">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio03Extra">
+    <entry file="file://$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio03Extra">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
@@ -693,7 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Atividade E/src/RespostaTeoricas/PooExercicio04">
+    <entry file="file://$PROJECT_DIR$/Atividade E/src/Resposta/PooExercicio04">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -711,10 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,10 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#133#134#0" expanded="false" />
-            <element signature="e#169#170#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,10 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,9 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#269#270#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,16 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#257#258#0" expanded="false" />
-            <element signature="e#284#285#0" expanded="false" />
-            <element signature="e#315#316#0" expanded="false" />
-            <element signature="e#345#346#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#408#409#0" expanded="false" />
-            <element signature="e#442#443#0" expanded="false" />
-            <element signature="e#509#510#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,9 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,11 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,12 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
