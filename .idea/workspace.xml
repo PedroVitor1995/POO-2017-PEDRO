@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a751322d-6ea1-4542-9625-587add5d7457" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Atividade F/Atividade F.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade F/app/TestaContas.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade F/model/Conta.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade F/model/ContaCorrente.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Atividade F/model/ContaPoupanca.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,6 +67,11 @@
               <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividade F" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -78,6 +85,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Furtado\Desktop\POO-2017-PEDRO\Atividade F" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
