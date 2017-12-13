@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a751322d-6ea1-4542-9625-587add5d7457" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interfaces/src/model/Quadrado.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/app/TestaConta.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/app/TestaGerenciadorDeImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/app/TestaTributavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/app/Teste.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/AreaCalculavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Circulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Conta.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Conta1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/ContaCorrente.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/ContaCorrente1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/ContaPoupanca.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/ContaPoupanca1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/GerenciadorDeImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Quadrado.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Retangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/SeguroDeVida.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Interfaces/out/production/Interfaces/model/Tributavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/app/TestaConta.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/app/TestaGerenciadorDeImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/app/TestaTributavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/app/Teste.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/AreaCalculavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Circulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Conta.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Conta1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaCorrente.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaCorrente1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaCorrente2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaPoupanca.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaPoupanca1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/ContaTributavel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/GerenciadorDeImpostoDeRenda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Quadrado.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Retangulo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/SeguroDeVida.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Interfaces/model/Tributavel.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,24 +210,6 @@
             <path>
               <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
               <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POO-2017-PEDRO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POO-2017-PEDRO" type="462c0819:PsiDirectoryNode" />
-              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,7 +455,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -450,12 +464,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
